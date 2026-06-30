@@ -7,6 +7,8 @@ Transform a clinical note, voice recording, medical image, and lab results into 
 > ⚠️ **For research and educational use only. Not a substitute for clinical judgment or a licensed medical professional.**
 
 ---
+#▶️ Live Demo App of the project ClinixAi 
+https://bdeuveexappn26ycgwuxxgq.streamlit.app/
 
 ## 🚀 Features
 
